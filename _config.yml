@@ -1,0 +1,11 @@
+title: play2grow.org
+email: hdedey@gmail.com
+description: play2grow.org
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://example.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
