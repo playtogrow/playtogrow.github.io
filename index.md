@@ -5,7 +5,7 @@ title: Play2Grow
 bigimg: img/play2grow-logo.png
 ---
 
-We, Cherie Deur (OT) of Play to Grow and Heather Edey (SLP) have been working with children and young adults with complex communication, motor, and sensory needs for over 30 years collectively. These enriching and powerful experiences have inspired us to develop a unique program, Building Blocks for Play and Communication, for young children with complex communication, motor, and sensory needs and their families.
+We, Cherie Deur (OT) of Play to Grow and Heather Edey (SLP) have been working with children and young adults with complex communication, motor, and sensory needs for over 30 years collectively. These enriching and powerful experiences have inspired us to develop a unique program, **Building Blocks for Play and Communication**, for young children with complex communication, motor, and sensory needs and their families.
 
 ## Building Blocks for Play and Communication: Mission Statement
 
@@ -21,8 +21,8 @@ Building Blocks for Play and Communication is a ten session program developed fo
 
 ### Schedule and Location
 
-#### Building Blocks for Play and Communication, 2017
-> Friday March 3rd, through Friday May 12th, 2017
+#### Building Blocks for Play and Communication, 2017 Session 1
+**Friday March 3rd, through Friday May 12th, 2017**
 > Studio One
 > Vecova Recreation Centre
 > 3304 33rd St. NW
