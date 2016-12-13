@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /
+title: play2grow
 ---
 
 We, Cherie Deur (OT) of Play to Grow and Heather Edey (SLP) have been working with children and young adults with complex communication, motor, and sensory needs for over 30??? years collectively. These enriching and powerful experiences have inspired us to develop a unique program for young children with complex communication, motor, and sensory needs and their families.
