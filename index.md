@@ -22,10 +22,11 @@ Building Blocks for Play and Communication is a ten session program developed fo
 ### Schedule and Location
 
 #### Building Blocks for Play and Communication, 2017 Session 1
-**Friday March 3rd, through Friday May 12th, 2017**
-> Studio One
-> Vecova Recreation Centre
-> 3304 33rd St. NW
-> Calgary, AB T3G 5L1
-> (403) 284-2231
+> Friday March 3rd, through Friday May 12th, 2017<br />
+> Studio One<br />
+> Vecova Recreation Centre<br />
+> 3304 33rd St. NW<br />
+> Calgary, AB T3G 5L1<br />
+> (403) 284-2231<br />
+
 
